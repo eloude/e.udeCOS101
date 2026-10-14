@@ -60,12 +60,12 @@ fn cylinder() -> f64 {
 }
 
 fn main() {
-    println!("=== SHAPE CALCULATOR ===");
-    println!("1. Trapezium: area");
-    println!("2. Rhombus: area");
-    println!("3. Parallelogram: area");
-    println!("4. Cube: surface area");
-    println!("5. Cylinder: volume");
+    println!(" SHAPE CALCULATOR ");
+    println!("1 - Trapezium: area");
+    println!("2 - Rhombus: area");
+    println!("3 - Parallelogram: area");
+    println!("4 - Cube: surface area");
+    println!("5 - Cylinder: volume");
     println!("");
     println!("Enter the number that corresponds with what you want to calculate");
 
