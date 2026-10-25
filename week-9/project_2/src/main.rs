@@ -51,6 +51,7 @@ fn main() {
      }
     } 
   }
+  println!("\nYour file has been created successfully");
 }
 
 
